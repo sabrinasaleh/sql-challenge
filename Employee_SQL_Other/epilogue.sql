@@ -1,4 +1,4 @@
--- Epilogue 
+-- Queries for Epilogue 
 SELECT employees.emp_no, titles.title, departments.dept_name, employees.first_name, employees.last_name, employees.sex, salaries.salary
 FROM employees
 JOIN titles
